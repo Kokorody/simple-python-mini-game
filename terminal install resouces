@@ -1,0 +1,4 @@
+install on terminal
+=
+pip install pygame
+pip install pygame pillow

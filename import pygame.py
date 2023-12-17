@@ -6,7 +6,7 @@ pygame.init()
 
 width, height = 800, 600
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Plane Shooting Game with Timer, Score-based Difficulty, and Enemy Bullets")
+pygame.display.set_caption("fuck communist plane")
 
 black = (0, 0, 0)
 white = (255, 255, 255)
